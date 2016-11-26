@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Flyout()
+comment1.params=x\ y
+comment1.target=void\ setPosition(double,\ double)
+comment2.params=vx\ vy
+comment2.target=void\ setVelocity(double,\ double)
+comment3.params=theta
+comment3.target=void\ setAngleDegrees(double)
+comment4.params=t_end
+comment4.target=void\ writeTrajectory(double)
+comment5.params=target
+comment5.target=void\ writeTrajectory(Vec2d)
+comment6.params=
+comment6.target=void\ writeMaxHeightVsDistance()
+numComments=7

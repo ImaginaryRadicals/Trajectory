@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Trajectory()
+comment1.params=theta_degrees
+comment1.target=void\ setAngleDegrees(double)
+comment2.params=t
+comment2.target=Vec2d\ position(double)
+comment3.params=target
+comment3.target=Solution\ intercept(Vec2d)
+numComments=4

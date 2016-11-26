@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vec2d()
+comment1.params=x\ y
+comment1.target=Vec2d(double,\ double)
+comment2.params=
+comment2.target=java.util.Vector\ toVector()
+comment3.params=
+comment3.target=double\ norm()
+comment4.params=in
+comment4.target=Vec2d\ plus(double)
+comment5.params=in
+comment5.target=Vec2d\ plus(Vec2d)
+comment6.params=in
+comment6.target=Vec2d\ minus(double)
+comment7.params=in
+comment7.target=Vec2d\ minus(Vec2d)
+comment8.params=in
+comment8.target=Vec2d\ times(double)
+comment9.params=in
+comment9.target=Vec2d\ divide(double)
+numComments=10
