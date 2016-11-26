@@ -1,2 +1,2 @@
 # Trajectory
-Trajectory calculation code in Blujay
+Trajectory calculation code in BluJ
